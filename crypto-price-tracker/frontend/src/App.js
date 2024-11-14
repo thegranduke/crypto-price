@@ -117,9 +117,9 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50 py-8">
+    <div className="min-h-screen bg-white py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="bg-white rounded-lg shadow-lg overflow-hidden">
+        <div className="bg-white rounded-lg overflow-hidden">
           <div className="p-6">
             {/* Header section */}
             <div className="flex flex-col sm:flex-row justify-between items-center mb-6">
